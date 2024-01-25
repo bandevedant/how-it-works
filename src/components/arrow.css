@@ -1,0 +1,10 @@
+.steps-circle img {
+  height: 70px;
+  width: auto;
+  border-radius: 40px;
+}
+
+.steps-desc {
+  display: flex;
+  flex-direction: column;
+}
